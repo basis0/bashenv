@@ -1,0 +1,5 @@
+# Copy this file to be named setenv.local.sh in the same directory and modify to suit your machine
+
+export MACHINE_LOCAL_NAME=localhost
+export JAVA_HOME=/Users/jmorefield/src/g1994_3/expdevtools/jdk/1.7.0_45/MacOSX64/
+export CATALINA_HOME=/usr/local/Cellar/tomcat/7.0.52/libexec
